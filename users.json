@@ -2208,3 +2208,16 @@
     "avatar": "/avatars/emmanuelsosa.png"
   }
 ]
+{
+  "name": "Umesh Kumar Sharma",
+  "github": "21H2",
+  "certs": [
+    "awstronaut"
+  ],
+  "city": "Noida",
+  "country": "India",
+  "date": "2026-10-30",
+  "bio": "Youngest Golden Jacket Holder | AWS (12x Certified) | Solutions Architect | Cloud & GenAI | DevOps | 5x Azure | 2x SAP",
+  "linkedin": "uniqueumesh",
+  "avatar": "/avatars/UmeshSharma.jpeg"
+}
